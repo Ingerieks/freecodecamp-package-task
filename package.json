@@ -16,5 +16,6 @@
 	},
 	"author" : "Inge",
 	"description": "Packages practice",
-	"keywords" : ["freecodecamp", "JDhelp", "complicated"]
+	"keywords" : [ "freecodecamp", "JDhelp", "complicated" ],
+	"license" : "MIT"
 }
