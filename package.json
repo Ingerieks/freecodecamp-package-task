@@ -15,5 +15,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "Inge",
-	"description": "Packages practice"
+	"description": "Packages practice",
+	"keywords" : ["freecodecamp", "JDhelp", "complicated"]
 }
